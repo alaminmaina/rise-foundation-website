@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # R.I.S.E Foundation Website
 
 A modern, responsive website for the Relief Impact Support Empowerment (RISE) Foundation, a non-profit organization dedicated to improving social welfare in disadvantaged communities.
@@ -176,3 +177,6 @@ This website is created for the R.I.S.E Foundation. All rights reserved to the R
 ---
 
 **Built with ❤️ for making a positive impact in communities across Nigeria.**
+=======
+# rise-foundation-website
+>>>>>>> 899774e2a71a1058e23e45b40964a63667bb0b5d
