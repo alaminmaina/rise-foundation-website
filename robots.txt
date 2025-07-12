@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://risefoundationng.com/sitemap.xml
+
+# Disallow crawling of certain directories if needed
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow crawling of CSS and JS files
+Allow: /css/
+Allow: /js/
+Allow: /images/
